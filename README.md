@@ -58,9 +58,3 @@ All queries are available in the `queries.sql` file.
 * T-SQL
 
 ---
-
-##  Notes
-
-Denormalization techniques were applied to improve performance by reducing joins and storing frequently used and aggregated data.
-
----
