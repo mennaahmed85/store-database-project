@@ -28,10 +28,12 @@ The system consists of the following tables:
 
 ---
 
-##  ERD Diagram
+## ERD Diagram
 
 ![ERD](docs/erd.png)
 
+You can also view or edit the diagram using the source file:
+[ERD Source File](docs/erd.drawio)
 ---
 
 ##  Sample Data
